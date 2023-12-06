@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-01T14:27:28 IST" name="Default suite" finished-at="2023-12-01T14:28:00 IST" duration-ms="32227">
+    <groups>
+    </groups>
+    <test started-at="2023-12-01T14:27:28 IST" name="Default test" finished-at="2023-12-01T14:28:00 IST" duration-ms="32227">
+      <class name="demo.org.FacebookTest">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:demo.org.FacebookTest@576d5deb]" started-at="2023-12-01T14:27:28 IST" name="tearUp" finished-at="2023-12-01T14:27:37 IST" duration-ms="9017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="logIn(java.lang.Object,java.lang.Object)[pri:0, instance:demo.org.FacebookTest@576d5deb]" started-at="2023-12-01T14:27:37 IST" name="logIn" data-provider="Login Data" finished-at="2023-12-01T14:27:37 IST" duration-ms="246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sathya123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SathyaGreens]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:demo.org.FacebookTest@576d5deb]" started-at="2023-12-01T14:27:37 IST" name="tearUp" finished-at="2023-12-01T14:27:44 IST" duration-ms="6773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="logIn(java.lang.Object,java.lang.Object)[pri:0, instance:demo.org.FacebookTest@576d5deb]" started-at="2023-12-01T14:27:44 IST" name="logIn" data-provider="Login Data" finished-at="2023-12-01T14:27:44 IST" duration-ms="224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sathya@QA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sathya345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:demo.org.FacebookTest@576d5deb]" started-at="2023-12-01T14:27:44 IST" name="tearUp" finished-at="2023-12-01T14:28:00 IST" duration-ms="15617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="logIn(java.lang.Object,java.lang.Object)[pri:0, instance:demo.org.FacebookTest@576d5deb]" started-at="2023-12-01T14:28:00 IST" name="logIn" data-provider="Login Data" finished-at="2023-12-01T14:28:00 IST" duration-ms="254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sathya#44]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sathya321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+      </class> <!-- demo.org.FacebookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
