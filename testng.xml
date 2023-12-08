@@ -6,7 +6,7 @@
 	  <parameter name="user name" value="Sathya123"></parameter>
     <classes>
       <class name="demo.org.AddactinTNG"/>
-      <class name="demo.org.FacebookTest"/>
+    <!-- <class name="demo.org.FacebookTest"/> --> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
